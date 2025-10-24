@@ -1,1 +1,16 @@
-*** Pre-Production Document 2025/26 ***
+***Pre-Production Document 2025/26***
+
+*Began Documentation*
+- Notes in notebook
+- Converted notes to digital
+- COnverted digital to github
+
+**Game Concept**
+A simple 2D Platformer, where there the player controls parts of the level, rather than the character.
+The aim of the game is to keep the character alive as long as possible.
+(Currently undecided if the aim is to beat a level, or to reach a high score)
+
+**Controls**
+*Either :-
+- A simple slime humanoid inspired by the graffiti seen on London trains. This would make the landscape of the game a city, with either an industrial or cyber-punk theme.
+- A fae/elemental sprite, that will change based on pickups. These pick-ups do not change the functions of the characters
