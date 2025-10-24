@@ -10,7 +10,18 @@ A simple 2D Platformer, where there the player controls parts of the level, rath
 The aim of the game is to keep the character alive as long as possible.
 (Currently undecided if the aim is to beat a level, or to reach a high score)
 
-**Controls**
-*Either :-
+
+**Character Concepts**
+The main character the player has to look after will either be:-
 - A simple slime humanoid inspired by the graffiti seen on London trains. This would make the landscape of the game a city, with either an industrial or cyber-punk theme.
-- A fae/elemental sprite, that will change based on pickups. These pick-ups do not change the functions of the characters
+- A fae/elemental sprite, that will change based on pickups. These pick-ups will mostly act as points, adding to the score. (They may also give the character an extra movement or attack option)
+
+Enemies will either be:- 
+- Different coloured slime creatures that wish to absorb you into them (Make your slime person land ontop of them to increase movment speed?).
+- Darkness/distruction sprites, that take elemental energy to defeat.
+
+
+**Controls**
+The game will be created with controlers in mind, but key controls will still work just as well.
+Holding the Triangle, Square, Cross, or Circle / H,J,K, or L will select *all* of the coloured blocks (Green, Pink, Blue, or Purple) that act as platforms.
+Pressing the Arrow Buttons / W, A, S, or D, will move the selected block within a fixed range.
